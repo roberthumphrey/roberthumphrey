@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/keanuispapi" target="blank"><img src="https://img.shields.io/twitter/follow/keanuispapi?logo=twitter&style=for-the-badge" alt="keanuispapi" /></a> </p>
 
-- 🔭 I’m currently working on **Union CAD, MDT & RMS**
+- 🔭 I’m currently working on **Union Gaming Network CAD, MDT & RMS**
 
 - 🌱 I’m currently learning **Cybersecurity, Rust & C++**
 
